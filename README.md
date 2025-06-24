@@ -82,12 +82,12 @@ These insights can help businesses:
 ## 📸 Visualizations
 
 ### 🔹 Elbow Method
-![Elbow Plot](elbow_plot.png)
+![Elbow Plot](elbow_plot_final.png.png)
 
 Shows the optimal number of clusters (k = 5) based on the distortion score.
 
 ### 🔹 Customer Segmentation
-![Customer Clusters](customer_clusters.png)
+![Customer Clusters](customer_clusters_final.png.png)
 
 Colored scatter plot showing customer groups based on income and spending score.
 
